@@ -1,3 +1,6 @@
+// Sudoku Solver
+// Author: Min021
+
 #include <iostream>
 #include <string>
 #include <vector>
